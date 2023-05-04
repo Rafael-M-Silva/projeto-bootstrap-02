@@ -147,6 +147,10 @@ body {
    
 }
 
+#about-us img {
+    width: 100%;
+}
+
 /* Testimonials */
 
 #testimonials {
