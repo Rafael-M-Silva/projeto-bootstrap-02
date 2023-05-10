@@ -1,7 +1,7 @@
-<h1 align="center"> Country Guide App </h1>
+<h1 align="center"> BEST DIGITAL AGENCY </h1>
 
 <p align="center">
-BEST DIGITAL AGENCY
+Projeto 02 bootstrap - faculdade flamingo
 </p>
 
 <p align="center">
